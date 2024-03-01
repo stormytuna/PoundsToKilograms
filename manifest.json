@@ -1,0 +1,7 @@
+{
+  "name": "PoundsToKilograms",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/stormytuna/PoundsToKilograms",
+  "description": "Makes the weight display your weight in kilograms instead of pounds!",
+  "dependencies": []
+}
